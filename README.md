@@ -33,9 +33,9 @@ Segue um descritivo dos dados coletados:
 - `registered`: número de locações para usuários registrados;
 - `total_count`: contador total de aluguéis (casual+registered).
 
+##Dataset se encontra no arqui Zip nesse repositório
 ### Perguntas a serem Respondidas
 
-Esta atividade tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto. Sendo assim, responda às seguintes perguntas:
 1. Qual o tamanho desse dataset?
 2. Qual a média da coluna windspeed?
 3. Qual a média da coluna temp?
