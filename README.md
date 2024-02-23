@@ -1,4 +1,4 @@
-### Bootcamp: Desenvolvedor(a) Python
+# Bootcamp: Desenvolvedor(a) Python
 
 ## Desafio Prático
 
@@ -18,9 +18,11 @@ tipos de dados, como a duração da viagem, as localizações iniciais e finais 
 percursos, entre outros. Esses dados, em conjunto com informações sobre o
 clima, o trânsito e o relevo, por exemplo, possibilitam uma análise mais
 robusta do compartilhamento de bicicletas.
+
+=============================
 Segue um descritivo dos dados coletados:
 
-− rec_id: índice do registro de locação;
+- rec_id: índice do registro de locação;
 − datetime: data;
 − season: estação do ano (1: inverno, 2: primavera, 3: verão, 4: outono).Relativo ao hemisfério norte;
 − year: ano (0: 2011, 1:2012);
@@ -37,10 +39,12 @@ Segue um descritivo dos dados coletados:
 − casual: número de locações para usuários casuais;
 − registered: número de locações para usuários registrados;
 − total_count: contador total de aluguéis (casual+registered).
+=============================
 
 Esta atividade tem como objetivo analisar os dados de compartilhamento de
 bicicletas em uma cidade, coletados pela Universidade do Porto.
 
+=============================
 Sendo assim responda às seguintes perguntas:
 a. Qual o tamanho desse dataset?
 b. Qual a média da coluna windspeed?
