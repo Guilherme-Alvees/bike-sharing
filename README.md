@@ -33,7 +33,7 @@ Segue um descritivo dos dados coletados:
 - `registered`: número de locações para usuários registrados;
 - `total_count`: contador total de aluguéis (casual+registered).
 
-##Dataset se encontra no arqui Zip nesse repositório
+## >>> Dataset se encontra no arqui Zip nesse repositório
 ### Perguntas a serem Respondidas
 
 1. Qual o tamanho desse dataset?
