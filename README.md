@@ -36,18 +36,18 @@ Segue um descritivo dos dados coletados:
 ### Perguntas a serem Respondidas
 
 Esta atividade tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto. Sendo assim, responda às seguintes perguntas:
-a. Qual o tamanho desse dataset?
-b. Qual a média da coluna windspeed?
-c. Qual a média da coluna temp?
-d. Quantos registros existem para o ano de 2011?
-e. Quantos registros existem para o ano de 2012?
-f. Quantas locações de bicicletas foram efetuadas em 2011?
-g. Quantas locações de bicicletas foram efetuadas em 2012?
-h. Qual estação do ano contém a maior média de locações de bicicletas?
-i. Qual estação do ano contém a menor média de locações de bicicletas?
-j. Qual horário do dia contém a maior média de locações de bicicletas?
-k. Qual horário do dia contém a menor média de locações de bicicletas?
-l. Que dia da semana contém a maior média de locações de bicicletas?
-m. Que dia da semana contém a menor média de locações de bicicletas?
-n. Às quartas-feiras (weekday = 3), qual o horário do dia que contém a maior média de locações de bicicletas?
-o. Aos sábados (weekday = 6), qual o horário do dia que contém a maior média de locações de bicicletas?
+1. Qual o tamanho desse dataset?
+2. Qual a média da coluna windspeed?
+3. Qual a média da coluna temp?
+4. Quantos registros existem para o ano de 2011?
+5. Quantos registros existem para o ano de 2012?
+6. Quantas locações de bicicletas foram efetuadas em 2011?
+7. Quantas locações de bicicletas foram efetuadas em 2012?
+8. Qual estação do ano contém a maior média de locações de bicicletas?
+9. Qual estação do ano contém a menor média de locações de bicicletas?
+10. Qual horário do dia contém a maior média de locações de bicicletas?
+11. Qual horário do dia contém a menor média de locações de bicicletas?
+12. Que dia da semana contém a maior média de locações de bicicletas?
+13. Que dia da semana contém a menor média de locações de bicicletas?
+14. Às quartas-feiras (weekday = 3), qual o horário do dia que contém a maior média de locações de bicicletas?
+15. Aos sábados (weekday = 6), qual o horário do dia que contém a maior média de locações de bicicletas?
